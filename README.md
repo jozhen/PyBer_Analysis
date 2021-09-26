@@ -12,6 +12,8 @@ E.G.
 
 # Summary
 
+![image](analysis/PyBer_fare_summary.png)
+
 Audience based marketing to rural areas can help improve Total Fare by City Type that drop in rural during Q1 compared to suburban and Urban. 
 
 Towards Q2 urban and urban dropped while suburban city types increase suggest more marketing budgets allocations with seasonality. 
